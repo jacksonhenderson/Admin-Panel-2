@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+----For Using This App Do This Step ------
+
+-----Upload these files--------
+
+----In Terminall write (npm install) ------ For instaling All Dependency
+
+-------Then Write (npm start) ------- For Setup in localhost
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
