@@ -1,0 +1,57 @@
+.topbar {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(170, 71, 236);
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+.topbarWrapper {
+    height: 100%;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 34px;
+    color: aliceblue;
+}
+
+.topRight {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.topbarIconContainer {
+    position: relative;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+
+.topIconBadge{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    background-color: red;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: -5px;
+    left: 10px;
+}
+
+.lamborghini {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    cursor: pointer;
+}
